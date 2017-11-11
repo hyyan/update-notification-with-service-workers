@@ -7,7 +7,7 @@ to show an update notification on the browser using service workers
 
 * Clone the project 
     `git clone https://github.com/hyyan/update-notification-with-service-workers.git .`
-* Server the app using you prefered server. Example python SimpleHTTPServer
+* Server the app using your prefered server. I use python SimpleHTTPServer
     `python -m SimpleHTTPServer 5000`
 * Make any change to `index.css`
 * Increae the cache version in `sw.js`.
